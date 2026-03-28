@@ -4,7 +4,7 @@
 
 **Aishwarya Priydarshni**
 🎓 B.Tech (CSE - Data Science)
-💡 Aspiring Data Analyst / ML Engineer
+💡 Data Analytics | Python | SQL | Visualization
 
 ---
 ## 🌐 Live Demo
