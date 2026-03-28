@@ -169,6 +169,12 @@ web-traffic-analytics/
 git clone https://github.com/Aishwaryap015/web-traffic-analytics.git
 cd web-traffic-analytics
 ```
+## 🌐 Compatibility
+
+> ⚠️ For best UI experience, open the dashboard in Google Chrome.
+> Works on: Edge, Firefox (minor UI differences possible)
+
+---
 
 ## 2️⃣ Install Dependencies
 
