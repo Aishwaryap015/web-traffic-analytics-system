@@ -7,6 +7,9 @@
 💡 Aspiring Data Analyst / ML Engineer
 
 ---
+## 🌐 Live Demo
+
+🔗 https://web-traffic-analytics-kecsw3fmbe58t9svndqplf.streamlit.app
 
 # 🚀 Overview
 
@@ -24,7 +27,14 @@ It demonstrates how raw event-level data can be:
 Includes: user sessions, page visits, actions, timestamps, and traffic sources.
 
 ---
+## 🚀 Business Impact
 
+- Processed 30,000+ user activity records
+- Built an end-to-end data pipeline (data generation → storage → SQL analytics → dashboard visualization)
+- Identified key traffic sources and user behavior patterns for decision-making
+- Enabled real-time filtering and automated insights generation
+- Implemented role-based access control for secure and personalized data views
+- 
 # ❗ Problem Statement
 
 In real-world systems, lack of proper traffic monitoring can:
